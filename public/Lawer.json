@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Awlad Hossain",
+    "occupation": "Criminal Expert",
+    "license_no": "BD 12451254",
+    "experience": "5+ Years Experience",
+    "availability": ["Sunday", "Monday", "Thursday"],
+    "consultation_fee": {
+      "amount": 273,
+      "currency": "Taka"
+    },
+    "status": "Available",
+    "image": "https://example.com/images/awlad_hossain.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Fahim Ahmed",
+    "occupation": "Family Law Attorney",
+    "license_no": "BD 98765432",
+    "experience": "3-5 Years Experience",
+    "availability": ["Monday", "Wednesday", "Friday"],
+    "consultation_fee": {
+      "amount": 350,
+      "currency": "Taka"
+    },
+    "status": "Available",
+    "image": "https://example.com/images/fahim_ahmed.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Nusrat Jahan",
+    "occupation": "Corporate Lawyer",
+    "license_no": "BD 11223344",
+    "experience": "5+ Years Experience",
+    "availability": ["Tuesday", "Thursday"],
+    "consultation_fee": {
+      "amount": 500,
+      "currency": "Taka"
+    },
+    "status": "Available",
+    "image": "https://example.com/images/nusrat_jahan.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Rahim Khan",
+    "occupation": "Civil Litigation Expert",
+    "license_no": "BD 55667788",
+    "experience": "10+ Years Experience",
+    "availability": ["Monday", "Tuesday", "Wednesday"],
+    "consultation_fee": {
+      "amount": 400,
+      "currency": "Taka"
+    },
+    "status": "Available",
+    "image": "https://example.com/images/rahim_khan.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Sultana Begum",
+    "occupation": "Immigration Lawyer",
+    "license_no": "BD 99887766",
+    "experience": "3-5 Years Experience",
+    "availability": ["Wednesday", "Friday"],
+    "consultation_fee": {
+      "amount": 300,
+      "currency": "Taka"
+    },
+    "status": "Available",
+    "image": "https://example.com/images/sultana_begum.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Kamal Uddin",
+    "occupation": "Real Estate Lawyer",
+    "license_no": "BD 22334455",
+    "experience": "5+ Years Experience",
+    "availability": ["Thursday", "Saturday"],
+    "consultation_fee": {
+      "amount": 450,
+      "currency": "Taka"
+    },
+    "status": "Available",
+    "image": "https://example.com/images/kamal_uddin.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Laila Akter",
+    "occupation": "Intellectual Property Attorney",
+    "license_no": "BD 66778899",
+    "experience": "3 Years Experience",
+    "availability": ["Monday", "Tuesday", "Thursday"],
+    "consultation_fee": {
+      "amount": 250,
+      "currency": "Taka"
+    },
+    "status": "Available",
+    "image": "https://example.com/images/laila_akter.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Badrul Islam",
+    "occupation": "Tax Lawyer",
+    "license_no": "BD 11225588",
+    "experience": "10+ Years Experience",
+    "availability": ["Tuesday", "Wednesday"],
+    "consultation_fee": {
+      "amount": 550,
+      "currency": "Taka"
+    },
+    "status": "Available",
+    "image": "https://example.com/images/badrul_islam.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Afroza Khanam",
+    "occupation": "Environmental Law Specialist",
+    "license_no": "BD 99001122",
+    "experience": "3-5 Years Experience",
+    "availability": ["Wednesday", "Thursday", "Friday"],
+    "consultation_fee": {
+      "amount": 380,
+      "currency": "Taka"
+    },
+    "status": "Available",
+    "image": "https://example.com/images/afroza_khanam.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Omar Faruk",
+    "occupation": "Human Rights Lawyer",
+    "license_no": "BD 33445566",
+    "experience": "5+ Years Experience",
+    "availability": ["Monday", "Friday"],
+    "consultation_fee": {
+      "amount": 420,
+      "currency": "Taka"
+    },
+    "status": "Available",
+    "image": "https://example.com/images/omar_faruk.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Shanta Islam",
+    "occupation": "Labor Law Consultant",
+    "license_no": "BD 77889900",
+    "experience": "3 Years Experience",
+    "availability": ["Tuesday", "Thursday", "Saturday"],
+    "consultation_fee": {
+      "amount": 280,
+      "currency": "Taka"
+    },
+    "status": "Available",
+    "image": "https://example.com/images/shanta_islam.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Dipu Miah",
+    "occupation": "Cyber Law Expert",
+    "license_no": "BD 10293847",
+    "experience": "5+ Years Experience",
+    "availability": ["Monday", "Wednesday", "Friday"],
+    "consultation_fee": {
+      "amount": 480,
+      "currency": "Taka"
+    },
+    "status": "Available",
+    "image": "https://example.com/images/dipu_miah.jpg"
+  }
+]
